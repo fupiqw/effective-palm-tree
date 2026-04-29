@@ -1,2 +1,2 @@
-# mironova_sofya
+# fgh
 Курсовой проект
