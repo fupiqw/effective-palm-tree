@@ -1,2 +1,2 @@
-# effective-palm-tree
+# mironova_sofya
 Курсовой проект
